@@ -1,6 +1,8 @@
 from __future__ import print_function
 import random
 
+//hiding a comment wihin the program for testing
+
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
@@ -22,3 +24,4 @@ def generate_buzz():
 
 if __name__ == "__main__":
     print(generate_buzz())
+
